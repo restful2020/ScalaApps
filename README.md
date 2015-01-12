@@ -1,0 +1,2 @@
+# ScalaApps
+Scala Pragram Training
